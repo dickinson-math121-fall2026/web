@@ -27,6 +27,8 @@ hs_err_pid*
 # MS Word
 ~$*
 
+# jmac versioning
+old/
 
 # git ai
 .commit_msg_proposed
