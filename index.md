@@ -2,7 +2,7 @@
 
 
 * [Syllabus](math121-syllabus-7-13-2026.docx)
-* [Overview schedule](math121-schedule-7-11-2026.xlsx)  <!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/18/2022</font> -->
+* [Overview schedule](math121-schedule-7-19-2026.xlsx)  <!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/18/2022</font> -->
 * [Detailed schedule](resources)
 * [Textbook](textbook.md)
 * [Homework assignments](https://courses.dickinson.edu/d2l/le/lessons/13312/units/154607)
