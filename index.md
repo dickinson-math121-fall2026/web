@@ -1,7 +1,7 @@
 # MATH121-01: Elementary Statistics, fall 2026
 
 
-* [Syllabus](math121-syllabus-7-13-2026.docx)
+* [Syllabus](math121-syllabus-8-19-2026.docx)
 * [Overview schedule](math121-schedule-7-19-2026.xlsx)  <!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/18/2022</font> -->
 * [Detailed schedule](resources)
 * [Textbook](textbook.md)
