@@ -11,6 +11,7 @@
 * [Brightspace](https://courses.dickinson.edu/d2l/home/13312)
 * Zoom link for when class is online: [https://zoom.us/my/johnmaccormick](https://zoom.us/my/johnmaccormick). Meeting ID: 398 215 6590.
 * [AI prompt](math121-prompt.md)
+* [Office hours](https://johnmaccormick.github.io/jmac-web/office-hours.html)
 * [How do I get help in this course?](help.md) (Includes office hours and more.)
  <!-- [Python
 programs](http://whatcanbecomputed.com/wp-content/uploads/2019/01/wcbc-programs-v1.1.zip)
