@@ -1,8 +1,8 @@
 # MATH121-01: Elementary Statistics, fall 2026
 
 
-* [Syllabus](math121-syllabus-8-20-2026.docx)
-* [Overview schedule](math121-schedule-8-19-2026.xlsx)  <!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/18/2022</font> -->
+* [Syllabus](math121-syllabus-8-23-2026.docx)
+* [Overview schedule](math121-schedule-8-23-2026.xlsx)  <!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/18/2022</font> -->
 * [Detailed schedule](resources)
 * [Textbook](textbook.md)
 * [Homework assignments](https://courses.dickinson.edu/d2l/le/lessons/13312/units/154607)
