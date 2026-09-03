@@ -1,5 +1,27 @@
 # Detailed schedule and resources
 
+## Class 3
+
+Mnemonics:
+```
+     '   '       '           '
+Type I rejects a null that's true.
+
+       '       '          '         '
+If the null is false, you have Type II
+```
+
+```
+'             '       '    '
+What does the p-value of x mean? 
+
+         '         '              '      '
+It's the chance of x or something more extreme
+```
+
+
+
+
 ## Class 2
 
 * syllabus questions
