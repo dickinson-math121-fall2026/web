@@ -2,22 +2,13 @@
 
 ## Class 3
 
-Mnemonics:
-```
-     '   '       '           '
-Type I rejects a null that's true.
-
-       '       '          '         '
-If the null is false, you have Type II
-```
-
-```
-'             '       '    '
-What does the p-value of x mean? 
-
-         '         '              '      '
-It's the chance of x or something more extreme
-```
+Mnemonic for Type I and II:
+> Type **I** re**jects** a **null** that's **true**.  
+> If the **null** is **false**, you **have** Type **II**  
+  
+Mnemonic for p-value:
+> **What** does the **p**-value **of** x **mean**?  
+> It's the **chance** of **x** or something **more** ex**treme**  
 
 
 
