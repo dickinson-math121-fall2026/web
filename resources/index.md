@@ -2,15 +2,17 @@
 
 ## Class 3
 
-Mnemonics for concepts from last time...
+* turn in HW0
 
-Mnemonic for Type I and II:
-> Type **I** re**jects** a **null** that's **true**.  
-> If the **null** is **false**, you've **got** a Type **II**  
-  
-Mnemonic for p-value:
-> **What** does the **p**-value **of** x **mean**?  
-> It's the **chance** of **x** or something **more** ex**treme**  
+* Mnemonics for concepts from last time...
+
+  Mnemonic for Type I and II:
+  > Type **I** re**jects** a **null** that's **true**.  
+  > If the **null** is **false**, you've **got** a Type **II**  
+
+  Mnemonic for p-value:
+  > **What** does the **p**-value **of** x **mean**?  
+  > It's the **chance** of **x** or something **more** ex**treme**  
 
 Today: ch1, pages 22-46; activities 1.1-1.3, pages A7-A10
 
