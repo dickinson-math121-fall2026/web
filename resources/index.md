@@ -1,5 +1,25 @@
 # Detailed schedule and resources
 
+## Class 4
+
+Today: Ch2, pages 47-75 + Activites 2.1-2.2, pages A11-12
+
+* pp 47-48: read at home
+* p49: _distribution_ of a variable
+* p50: four definitions
+* p52: frequency and relative frequency
+* p52-54: histograms. Play around with this [histogram demo](https://appstate-math.github.io/interactivate/activities/Histogram/) if you want (Credit: Shodor Education Foundation + Department of Mathematical Sciences, Appalachian State University).
+* [3:20pm] pp55-57: stem-and-leaf plots
+* pp58-61: shape: symmetric, skewed, uniform, mounds
+* [3:30pm] **Activity 2.1**: Try it on your own, discuss with neighbors.
+* [3:40pm] pp62-63:
+  * Outliers.
+  * Summary for _numerical_ distributions: shape, center, variability.
+* pp64-65: bar chart, pie chart
+* pp66-68:
+  * Summary for _categorical_ distributions: mode, variability.
+* [4:00pm] **Activity 2.2**: Try it on your own, discuss with neighbors.
+
 ## Class 3
 
 * turn in HW0
