@@ -19,6 +19,7 @@ Today: Ch2, pages 47-75 + Activites 2.1-2.2, pages A11-12
 * pp66-68:
   * Summary for _categorical_ distributions: mode, variability.
 * [4:00pm] **Activity 2.2**: Try it on your own, discuss with neighbors.
+* pp71-75: Misleading statistics -- read at home if we don't have time to go over in class
 
 ## Class 3
 
