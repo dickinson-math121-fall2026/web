@@ -1,5 +1,24 @@
 # Detailed schedule and resources
 
+## Class 5
+
+Today: First part of chapter 3, pages 76-93 + Activity 3.1, page A14.
+
+* p76-82: Measures of center: 
+  * Mean, median, trimmed mean, mode
+* p83: Example 3.1, together in class
+* p84-91: Measures of spread:
+  * deviations, mean absolute deviation (MAD), sample variance, sample standard deviation, population variance and standard deviation 
+* Activity 3.1 (page A-14) -- Individually, check with neighbors.
+* p92-93: The empirical rule (a.k.a. 68-95-99.7 rule).
+  * Mnemonic: Think of dialing these numbers on a phone keypad. It's a cross in the bottom right corner and then a swoosh across the bottom row -- [see diagram](./class05/68-95-99.7-rule.svg).
+* If time: preliminary minitab lab:
+  * see [Minitab instructions](./minitab/index.md) for how to log in to the Minitab web app.
+  * see coursepack page 102 to get started. Go up to and including _Histogram_ on page 106.
+
+
+
+
 ## Class 4
 
 Today: Ch2, pages 47-75 + Activites 2.1-2.2, pages A11-12
