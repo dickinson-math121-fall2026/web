@@ -1,8 +1,7 @@
 # MATH121-01: Elementary Statistics, fall 2026
 
-
 * [Syllabus](math121-syllabus.docx?t=09032026)
-* [Overview schedule](math121-schedule-8-23-2026.xlsx)  <!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/18/2022</font> -->
+* [Overview schedule](math121-schedule.xlsx?v=09-13-2026)  &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/13/2026</font>
 * [Detailed schedule](resources)
 * [Textbook](textbook.md)
 * [Homework assignments](https://courses.dickinson.edu/d2l/le/lessons/13312/units/154607)
@@ -16,4 +15,3 @@
  <!-- [Python
 programs](http://whatcanbecomputed.com/wp-content/uploads/2019/01/wcbc-programs-v1.1.zip)
 from [whatcanbecomputed.com](https://whatcanbecomputed.com/) (ignore security warnings); also available via direct link:  -->
-
