@@ -12,6 +12,7 @@
 * [AI prompt](math121-prompt.md)
 * [Office hours](https://johnmaccormick.github.io/jmac-web/office-hours.html)
 * [How do I get help in this course?](help.md) (Includes office hours and QR Center.)
+* [Minitab web app](https://app.minitab.com/), Minitab [login instructions](./resources/minitab/index.md), more details in coursepack pages 102-108. &nbsp;&nbsp;&nbsp;<font color="red">ADDED on 9/14/2026</font>
  <!-- [Python
 programs](http://whatcanbecomputed.com/wp-content/uploads/2019/01/wcbc-programs-v1.1.zip)
 from [whatcanbecomputed.com](https://whatcanbecomputed.com/) (ignore security warnings); also available via direct link:  -->
