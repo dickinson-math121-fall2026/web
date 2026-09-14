@@ -2,6 +2,8 @@
 
 ## Class 5
 
+ if you have 35 minutes to spare.... [??what are these people talking about??](https://www.youtube.com/watch?v=ZCK7tIVyK68)
+
 Today: First part of chapter 3, pages 76-93 + Activity 3.1, page A14.
 
 * p76-82: Measures of center: 
