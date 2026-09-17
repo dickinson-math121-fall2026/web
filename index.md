@@ -4,7 +4,7 @@
 * [Overview schedule](math121-schedule.xlsx?v=09-13-2026) <!-- &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/13/2026</font> -->
 * [Detailed schedule](resources)
 * [Textbook](textbook.md)
-* [Homework assignments](https://courses.dickinson.edu/d2l/le/lessons/13312/units/154607)
+* [Homework assignments](https://courses.dickinson.edu/d2l/le/lessons/13312/units/154607), [Homework solutions](https://courses.dickinson.edu/d2l/le/lessons/13312/units/196292)  &nbsp;&nbsp;&nbsp;<font color="red">UPDATED on 9/17/2026</font>
 <!-- * [Exams](exams/) -->
 * [Brightspace](https://courses.dickinson.edu/d2l/home/13312)
 * Zoom link for when class is online: [https://zoom.us/my/johnmaccormick](https://zoom.us/my/johnmaccormick). Meeting ID: 398 215 6590.
