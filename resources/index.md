@@ -1,25 +1,53 @@
 # Detailed schedule and resources
 
+## Class 6
+
+Announcement: homework 3 was updated 9/17/2026.
+
+Today: Second part of chapter 3, pages 92-108 + Activity 3.2, page A-14 + minitab lab, pages 102-108.
+
+* do Activities 3.3 and 3.4 at home
+
+Plan:
+
+* [3:05pm] p92-93: review the empirical rule (a.k.a. 68-95-99.7 rule).
+  * Mnemonic: Think of dialing these numbers on a phone keypad. It's a cross in the bottom right corner and then a swoosh across the bottom row -- [see diagram](./class05/68-95-99.7-rule.svg).
+  * example 3.3, together in class
+* [3:10pm] p94-95: z-scores
+  * example 3.4 -- do at home if skipped
+  * Activity 3.2, page A-14
+* [3:20pm] p96: percentiles
+  * example 3.5 -- do at home if skipped
+* [3:25pm] 96-97: Interquartile range (IQR)
+  * examples 3.6 and 3.7 -- do at home if skipped
+* [3:30pm] p98: 1.5IQR rule for outliers
+  * example 3.8 -- do at home if skipped
+* [3:40pm] p99: five-number summary
+* [3:45pm] p99-101: boxplots
+  * example 3.9 -- do at home if skipped
+  * Activity 3.3, page A-15 -- do at home
+  * Activity 3.4, page A-16 -- do at home
+* [3:50pm] In-class minitab lab [in pairs](./class06/pairs.md):
+  * see [Minitab instructions](./minitab/index.md) for how to log in to the Minitab web app.
+  * work through coursepack pages 102-108. Finish for homework.
+
 ## Class 5
 
  if you have 35 minutes to spare.... [??what are these people talking about??](https://www.youtube.com/watch?v=ZCK7tIVyK68)
 
 Today: First part of chapter 3, pages 76-93 + Activity 3.1, page A14.
 
-* p76-82: Measures of center: 
+* p76-82: Measures of center:
   * Mean, median, trimmed mean, mode
 * p83: Example 3.1, together in class
 * p84-91: Measures of spread:
-  * deviations, mean absolute deviation (MAD), sample variance, sample standard deviation, population variance and standard deviation 
+  * deviations, mean absolute deviation (MAD), sample variance, sample standard deviation, population variance and standard deviation
 * Activity 3.1 (page A-14) -- Individually, check with neighbors.
 * p92-93: The empirical rule (a.k.a. 68-95-99.7 rule).
   * Mnemonic: Think of dialing these numbers on a phone keypad. It's a cross in the bottom right corner and then a swoosh across the bottom row -- [see diagram](./class05/68-95-99.7-rule.svg).
-* If time: preliminary minitab lab:
+* _didn't have time for this_: preliminary minitab lab:
   * see [Minitab instructions](./minitab/index.md) for how to log in to the Minitab web app.
   * see coursepack page 102 to get started. Go up to and including _Histogram_ on page 106.
-
-
-
 
 ## Class 4
 
