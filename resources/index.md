@@ -10,6 +10,8 @@ Today: Second part of chapter 3, pages 92-108 + Activity 3.2, page A-14 + minita
 
 Plan:
 
+* [3:00pm] return HW1+2, explain grading:
+  * random subset of questions are graded, then a score for completeness is added, usually marked "cpt".
 * [3:05pm] p92-93: review the empirical rule (a.k.a. 68-95-99.7 rule).
   * Mnemonic: Think of dialing these numbers on a phone keypad. It's a cross in the bottom right corner and then a swoosh across the bottom row -- [see diagram](./class05/68-95-99.7-rule.svg).
   * example 3.3, together in class
