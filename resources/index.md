@@ -9,6 +9,10 @@ Clarification from last time: a _quartile_ is just a single number, **not an int
 * The third quartile, \\(Q_3\\), is the 75th percentile.
 * The interquartile range (IQR) is the difference \\(Q_3 - Q_1\\).
 
+Announcement:
+
+* For the exams, you can use a scientific, non-graphing, non-programmable calculator. You can buy one from me for $5 if you want.
+
 Today: First part of chapter 4, pages 109-133 + Activities 4.1-4.4, pages A17-19 + Example 4.1, pages 132-133.
 
 Plan:
