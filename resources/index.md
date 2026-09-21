@@ -2,11 +2,12 @@
 
 ## Class 7
 
-* Clarification from last time: a _quartile_ is just a single number, **not an interval**:
-  * The first quartile, \\(Q_1\\), is the 25th percentile.
-  * The second quartile, \\(Q_2\\), is the 50th percentile (the median).
-  * The third quartile, \\(Q_3\\), is the 75th percentile.
-  * The interquartile range (IQR) is the difference \\(Q_3 - Q_1\\).
+Clarification from last time: a _quartile_ is just a single number, **not an interval**:
+
+* The first quartile, \\(Q_1\\), is the 25th percentile.
+* The second quartile, \\(Q_2\\), is the 50th percentile (the median).
+* The third quartile, \\(Q_3\\), is the 75th percentile.
+* The interquartile range (IQR) is the difference \\(Q_3 - Q_1\\).
 
 Today: First part of chapter 4, pages 109-133 + Activities 4.1-4.4, pages A17-19 + Example 4.1, pages 132-133.
 
