@@ -1,5 +1,23 @@
 # Detailed schedule and resources
 
+## Class 7
+
+* Clarification from last time: a _quartile_ is just a single number, **not an interval**:
+  * The first quartile, $Q_1$, is the 25th percentile.
+  * The second quartile, $Q_2$, is the 50th percentile (the median).
+  * The third quartile, $Q_3$, is the 75th percentile.
+  * The interquartile range (IQR) is the difference $Q_3 - Q_1$.
+
+Today: First part of chapter 4, pages 109-133 + Activities 4.1-4.4, pages A17-19 + Example 4.1, pages 132-133.
+
+Plan:
+
+* [3:05pm] pages 109-117: Read carefully at home. Complete Activities 4.1 and 4.2 at home -- the solutions will be provided next time.
+* [3:10pm] correlation coefficient, pages 118-121. Activity 4.3 in class if time allows, otherwise complete at home.
+* [3:30pm] linear regression, pages 122-129. Activity 4.4 in class if time allows, otherwise complete at home.
+* [3:50pm] calculating least squares line (line of best fit) pages 130-131.
+* [4:00pm] Example 4.1 -- do in class.
+
 ## Class 6
 
 Announcement: homework 3 was updated 9/17/2026.
