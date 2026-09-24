@@ -1,5 +1,9 @@
 # Minitab instructions
 
+## Datasets
+
+Datasets for the course are available on the separate [datasets page](./datasets.md).
+
 ## Launching the Minitab Web App for the first time
 
 1. In a **Chrome, Safari, or Edge** web browser, navigate to: [https://app.minitab.com/](https://app.minitab.com/)

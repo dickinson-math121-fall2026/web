@@ -4,7 +4,7 @@
 * [Overview schedule](math121-schedule.xlsx?v=09-21-2026) <!-- <span style="color: red; margin-left: 1.5rem"><strong>UPDATED on 9/17/2026</strong></span> -->
 * [Detailed schedule](resources)
 * [Textbook](textbook.md)
-* [Homework assignments](https://courses.dickinson.edu/d2l/le/lessons/13312/units/154607), [Homework solutions](https://courses.dickinson.edu/d2l/le/lessons/13312/units/196292)
+* [Homework assignments](https://courses.dickinson.edu/d2l/le/lessons/13312/units/154607), [Homework solutions](https://courses.dickinson.edu/d2l/le/lessons/13312/units/196292), [datasets](./resources/minitab/datasets.md)
 <!-- <span style="color: red; margin-left: 1.5rem"><strong>UPDATED on 9/17/2026</strong></span> -->
 <!-- * [Exams](exams/) -->
 * [Brightspace](https://courses.dickinson.edu/d2l/home/13312)
@@ -12,4 +12,7 @@
 * [AI prompt](math121-prompt.md)
 * [Office hours](https://johnmaccormick.github.io/jmac-web/office-hours.html)
 * [How do I get help in this course?](help.md) (Includes office hours and QR Center.)
-* [Minitab web app](https://app.minitab.com/), Minitab [login instructions](./resources/minitab/index.md), more details in coursepack pages 102-108.
+* Minitab:
+  * [Minitab web app](https://app.minitab.com/)
+  * Minitab [login instructions](./resources/minitab/index.md). More details in coursepack pages 102-108.
+  * [datasets](./resources/minitab/datasets.md) for Minitab labs and homework.  <span style="color: red; margin-left: 1.5rem"><strong>ADDED on 9/24/2026</strong></span>
