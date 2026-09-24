@@ -19,5 +19,5 @@ Enter your Dickinson email at [https://app.minitab.com/](https://app.minitab.com
 
 * **Google Drive**: As far as I know, this version of Minitab does not work with Dickinson's Onedrive. It works fine with Google Drive. So if you have a personal Google Drive account, you can connect that.
 * **Local folder**: Alternatively, you can upload and download your work from a local folder as necessary.
-  * **Upload**: Use _Open_ from the sidebar on the left.
+  * **Upload**: Use _Open_ from the sidebar on the left, then choose Open Local File.
   * **Download**: Near the top left, click on the title of your project (it may be "Untitled" or a custom name). Choose the Download link which should be below the Enable Autosave button.
