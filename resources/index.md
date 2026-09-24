@@ -1,5 +1,17 @@
 # Detailed schedule and resources
 
+## Class 8
+
+Today: Remainder of chapter 4, pages 134-145
+
+* [3:05pm] Answers to Activities 4.1, 4.2, 4.3.
+* [3:10pm] Influential points and outliers, p135-137
+* [3:20pm] Coefficient of determination, p138-139
+* [3:35pm] Example 4.2, p140-141.
+* [3:50pm] Minitab lab, pages 142-145 in [pairs](./class08/pairs.md).
+  * Instructions for launching Minitab can be found in the [Minitab instructions](./minitab/index.md).
+  * You will need the data file [OJuice.mtw](./class08/OJuice.mtw).
+
 ## Class 7
 
 Clarification from last time: a _quartile_ is just a single number, **not an interval**:
