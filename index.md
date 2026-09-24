@@ -6,7 +6,7 @@
 * [Textbook](textbook.md)
 * [Homework assignments](https://courses.dickinson.edu/d2l/le/lessons/13312/units/154607), [Homework solutions](https://courses.dickinson.edu/d2l/le/lessons/13312/units/196292), [datasets](./resources/minitab/datasets.md)
 <!-- <span style="color: red; margin-left: 1.5rem"><strong>UPDATED on 9/17/2026</strong></span> -->
-<!-- * [Exams](exams/) -->
+* [Exams](exams/) <span style="color: red; margin-left: 1.5rem"><strong>ADDED on 9/24/2026</strong></span>
 * [Brightspace](https://courses.dickinson.edu/d2l/home/13312)
 * Zoom link for when class is online: [https://zoom.us/my/johnmaccormick](https://zoom.us/my/johnmaccormick). Meeting ID: 398 215 6590.
 * [AI prompt](math121-prompt.md)

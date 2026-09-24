@@ -2,6 +2,11 @@
 
 ## Class 8
 
+Announcments:
+* Minitab datasets available
+* PDF version of HW4 is available. You can use this or the MS word version.
+* Exam details are on home page.
+
 Today: Remainder of chapter 4, pages 134-145
 
 * [3:05pm] Answers to Activities 4.1, 4.2, 4.3.
