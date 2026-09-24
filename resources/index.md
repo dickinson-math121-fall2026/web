@@ -3,19 +3,24 @@
 ## Class 8
 
 Announcments:
+
 * Minitab datasets available
 * PDF version of HW4 is available. You can use this or the MS word version.
 * Exam details are on home page.
+* Get your calculator approved! (Or buy one from the instructor for $5.)
+* HW3: Note how to describe a distribution in words correctly
+  * Give a single typical value for the center.
+  * Give a range of values where _most_ of the data lies.
 
 Today: Remainder of chapter 4, pages 134-145
 
-* [3:05pm] Answers to Activities 4.1, 4.2, 4.3.
-* [3:10pm] Influential points and outliers, p135-137
-* [3:20pm] Coefficient of determination, p138-139
-* [3:35pm] Example 4.2, p140-141.
+* [3:10pm] Answers to Activities 4.1, 4.2, 4.3.
+* [3:15pm] Influential points and outliers, p135-137
+* [3:25pm] Coefficient of determination, p138-139
+* [3:40pm] Example 4.2, p140-141.
 * [3:50pm] Minitab lab, pages 142-145 in [pairs](./class08/pairs.md).
   * Instructions for launching Minitab can be found in the [Minitab instructions](./minitab/index.md).
-  * You will need the data file [OJuice.mtw](./class08/OJuice.mtw).
+  * You will need the data file [OJuice.mtw](./minitab/OJuice.mtw).
 
 ## Class 7
 
