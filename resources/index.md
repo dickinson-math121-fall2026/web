@@ -1,5 +1,14 @@
 # Detailed schedule and resources
 
+## Class 9
+
+Exam revision.
+
+* Bring questions to class.
+* Remember you will need an approved non-graphing non-programmable calculator for the exam. (Purchase for $5 from instructor if desired.)
+* No bathroom breaks in the exam.
+* Write answers on your own paper.
+
 ## Class 8
 
 Announcments:
