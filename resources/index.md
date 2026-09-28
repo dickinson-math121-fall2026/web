@@ -2,6 +2,8 @@
 
 ## Class 9
 
+Optional event tomorrow night: 7pm ATS -- Can a computer program think like a human?
+
 Exam revision.
 
 * Bring questions to class.
