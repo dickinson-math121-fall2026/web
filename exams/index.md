@@ -19,6 +19,10 @@ printed, written, electronic, or other materials. Exceptions:
 
 * Solutions must employ methods we have studied in class; other approaches will receive little credit.
 
+## Retakes
+
+Under certain circumstances as it is possible to retake a midterm exam and recover some of the points lost. Please see the [retake policy](./retakes.md). 
+
 ## Exam 1
 
 Exam 1 covers material from Topics 0-4 inclusive.
