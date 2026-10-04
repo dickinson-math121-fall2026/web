@@ -1,5 +1,13 @@
 # Detailed schedule and resources
 
+## Class 11
+
+
+## Class 10
+
+Exam 1.
+
+
 ## Class 9
 
 Optional event tomorrow night: 7pm ATS -- Can a computer program think like a human?
