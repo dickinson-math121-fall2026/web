@@ -21,7 +21,7 @@ printed, written, electronic, or other materials. Exceptions:
 
 ## Retakes
 
-Under certain circumstances as it is possible to retake a midterm exam and recover some of the points lost. Please see the [retake policy](./retakes.md). 
+Under certain circumstances as it is possible to retake a midterm exam and recover some of the points lost. Please see the [retake policy](./retakes.md).
 
 ## Exam 1
 
@@ -43,3 +43,7 @@ Likely questions and topics include:
 * Regression
 * Empirical rule (68-95-99.7 rule)
 * Describing a distribution in words
+
+### Curving
+
+An explanation of the curving for exam one is available on a separate page: [Curving for Exam 1](./curving-exam1.md)

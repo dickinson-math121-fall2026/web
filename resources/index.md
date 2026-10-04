@@ -2,11 +2,31 @@
 
 ## Class 11
 
+Announcements:
+
+* Explanation of [exam curving](../exams/curving-exam1.md) and [retake policy](../exams/retakes.md).
+* The exam questions and solutions are on Brightspace.
+* You should have received a grade report. Let me know of any questions after class.
+* Discussion of the exam answers will take place next time.
+
+Today's material: Ch 5, first part (pages 146-157), Activities 5.1-5.5 (pages A-20 to A-23).
+
+* [3:10pm] pages 147-149: read at home.
+* pages 150-151: Event, simple event, sample space.
+* [3:15pm] Activities 5.1-5.2, page A-20: do in class if time allows, otherwise complete at home (DICITAOCAH).
+* pages 151-154: probability model, union, intersection, complement.
+* page 154: fill in. (in class)
+* page 155: mutually exclusive events.
+* [3:40pm] Activity 5.3, page A-21: DICITAOCAH
+* still page 155: Probabilities for equally likely events
+* [3:50pm] Activity 5.4, page A-22: DICITAOCAH
+* page 156: Addition rule.
+* [4:00pm] Activity 5.5, page A-23: DICITAOCAH
+* page 157: Addition rule for mutually exclusive events
 
 ## Class 10
 
 Exam 1.
-
 
 ## Class 9
 
