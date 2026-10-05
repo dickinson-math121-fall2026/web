@@ -7,7 +7,8 @@ Announcements:
 * Explanation of [exam curving](../exams/curving-exam1.md) and [retake policy](../exams/retakes.md).
 * The exam questions and solutions are on Brightspace.
 * You should have received a grade report. Let me know of any questions after class.
-* Discussion of the exam answers will take place next time.
+* Discussion of the exam answers will take place next time we meet in person.
+* The next class (Thursday Oct 8) will be via asynchronous video lecture. Check back here on Detailed Schedule page for details.
 
 Today's material: Ch 5, first part (pages 146-157), Activities 5.1-5.5 (pages A-20 to A-23).
 
