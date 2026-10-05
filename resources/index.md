@@ -1,5 +1,16 @@
 # Detailed schedule and resources
 
+## Class 12
+
+This class is delivered by asynchronous video lecture:
+
+* [Part 1](https://dickinson0-my.sharepoint.com/:v:/g/personal/jmac_dickinson_edu/IQAC9yHUw9ZZR7HdzCrq8DnRAbnYshfrx9-fMkE9GWG0ZOM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JMVes7)
+* [Part 2](https://dickinson0-my.sharepoint.com/:v:/g/personal/jmac_dickinson_edu/IQDEkdEKTLmtSoWkIEC4tsqkAct44Ysh7DBA1Io_LXmFtAk?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TsGdYY)
+* [Part 3](https://dickinson0-my.sharepoint.com/:v:/g/personal/jmac_dickinson_edu/IQBFNeyATh4MTZ-IODVd8j1GAd7QV7Vnt6k3YVIizO4AoY4?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=logOPb)
+* [Part 4](https://dickinson0-my.sharepoint.com/:v:/g/personal/jmac_dickinson_edu/IQAUdH1OiTvVQKTGtEd8i8YiAdApSy7eoyv9uGMhbY88rLY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=sMxzsh)
+* Part 5 (under construction)
+
+
 ## Class 11
 
 Announcements:
