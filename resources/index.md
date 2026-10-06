@@ -2,14 +2,14 @@
 
 ## Class 12
 
-This class is delivered by asynchronous video lecture:
+This class is delivered by asynchronous video lecture covering pages 157-170:
 
-* [Part 1](https://dickinson0-my.sharepoint.com/:v:/g/personal/jmac_dickinson_edu/IQAC9yHUw9ZZR7HdzCrq8DnRAbnYshfrx9-fMkE9GWG0ZOM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JMVes7)
-* [Part 2](https://dickinson0-my.sharepoint.com/:v:/g/personal/jmac_dickinson_edu/IQDEkdEKTLmtSoWkIEC4tsqkAct44Ysh7DBA1Io_LXmFtAk?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TsGdYY)
-* [Part 3](https://dickinson0-my.sharepoint.com/:v:/g/personal/jmac_dickinson_edu/IQBFNeyATh4MTZ-IODVd8j1GAd7QV7Vnt6k3YVIizO4AoY4?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=logOPb)
-* [Part 4](https://dickinson0-my.sharepoint.com/:v:/g/personal/jmac_dickinson_edu/IQAUdH1OiTvVQKTGtEd8i8YiAdApSy7eoyv9uGMhbY88rLY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=sMxzsh)
-* [Part 5](https://dickinson0-my.sharepoint.com/:v:/g/personal/jmac_dickinson_edu/IQA__H7n3r1MQZEmw8VdDD7MAe9uMeg0cjAmxSRAmO4fq94?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=KH7djw) - The audio says this is the last part, but in fact there is one more after this
-* [Part 6](https://dickinson0-my.sharepoint.com/:v:/g/personal/jmac_dickinson_edu/IQB-l8i3P96PS68jEobDxWTcAUTkJ0cHaaduEH_-NxURadE?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=atyKlW)
+* [Part 1](https://dickinson0-my.sharepoint.com/:v:/g/personal/jmac_dickinson_edu/IQAC9yHUw9ZZR7HdzCrq8DnRAbnYshfrx9-fMkE9GWG0ZOM?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=JMVes7) (4 minutes)
+* [Part 2](https://dickinson0-my.sharepoint.com/:v:/g/personal/jmac_dickinson_edu/IQDEkdEKTLmtSoWkIEC4tsqkAct44Ysh7DBA1Io_LXmFtAk?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=TsGdYY) (3 minutes)
+* [Part 3](https://dickinson0-my.sharepoint.com/:v:/g/personal/jmac_dickinson_edu/IQBFNeyATh4MTZ-IODVd8j1GAd7QV7Vnt6k3YVIizO4AoY4?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=logOPb) (7 minutes)
+* [Part 4](https://dickinson0-my.sharepoint.com/:v:/g/personal/jmac_dickinson_edu/IQAUdH1OiTvVQKTGtEd8i8YiAdApSy7eoyv9uGMhbY88rLY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=sMxzsh) (6 minutes)
+* [Part 5](https://dickinson0-my.sharepoint.com/:v:/g/personal/jmac_dickinson_edu/IQA__H7n3r1MQZEmw8VdDD7MAe9uMeg0cjAmxSRAmO4fq94?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=KH7djw) (15 minutes) - The audio says this is the last part, but in fact there is one more after this.
+* [Part 6](https://dickinson0-my.sharepoint.com/:v:/g/personal/jmac_dickinson_edu/IQB-l8i3P96PS68jEobDxWTcAUTkJ0cHaaduEH_-NxURadE?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=atyKlW) (8 minutes)
 
 
 ## Class 11
