@@ -1,5 +1,20 @@
 # Detailed schedule and resources
 
+## Class 13
+
+* Exam solutions discussion + questions
+* Reminder of retake process
+* Questions on video lectures (class 12)
+
+Chapter 6, pages 171-182:
+
+* [3:10pm] p171-176: discrete random variables.
+* [3:20pm] Activity 6.1, page A-27.
+* [3:30pm] p177-180: continuous random variables.
+* [3:45pm] Activity 6.2, page A-28.
+* [3:55pm] Activity 6.3, page A-29 -- together, interactively
+* [4:10pm] p181 -- expected value of continuous random variables.
+
 ## Class 12
 
 This class is delivered by asynchronous video lecture covering pages 157-170:
