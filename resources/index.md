@@ -2,11 +2,15 @@
 
 ## Class 13
 
+* Announcement: Talk on Cybersecurity 5:00 PM tomorrow October 13 in Tome 115
+
+Today:
+
 * Exam solutions discussion + questions
 * Reminder of retake process
 * Questions on video lectures (class 12)
 
-Chapter 6, pages 171-182:
+main content for today - chapter 6, pages 171-182:
 
 * [3:10pm] p171-176: discrete random variables.
 * [3:20pm] Activity 6.1, page A-27.
