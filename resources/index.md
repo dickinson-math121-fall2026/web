@@ -1,5 +1,27 @@
 # Detailed schedule and resources
 
+## Class 14
+
+main content for today - chapter 6, pages 183-197:
+
+* [3:00pm] normal distribution, pages 183-185
+  * [Desmos normal distribution demo](https://www.desmos.com/calculator/jxzs8fz9qr). Note \\(a=\mu\\) and \\(b=\sigma\\) in this demo.
+* [3:05pm] standard normal distribution, page 186
+* [3:10pm] using the standard normal table, page 186
+* [3:15pm] example 6.1 (p187): find standard normal areas
+* [3:20pm] converting to the standard normal distribution, page 187
+* [3:25pm] examples 6.2 and 6.3 (p188): do in class
+* examples 6.4 and 6.5 (p189): read at home
+* activity 6.4, page A-30: do at home (answers on whiteboard in classroom)
+* [3:40pm] Inverse normal values (p190)
+* [3:45pm] example 6.6 (p191): in class
+* example 6.7 (p191): do at home
+* activity 6.5, page A-31: do at home (answers on whiteboard in classroom)
+* [3:55pm] normal probability plot (pp192-195)
+* [4:00pm] uniform distribution (p196)
+* [4:05pm] example 6.8 (p196): in class
+* activity 6.6, page A-32: do at home (answers on whiteboard in classroom)
+
 ## Class 13
 
 * Announcement: Talk on Cybersecurity 5:00 PM tomorrow October 13 in Tome 115
