@@ -2,7 +2,7 @@
 
 * [BistroTips.mtw](./BistroTips.mtw), modern format: [BistroTips.mwx](./BistroTips.mwx)
 * BodyTemp.mtw -- outdated, do not use. Download the updated version as `BodyTemp.mwx`:
-  * _still working on converting to modern format_
+  * [BodyTemp.mwx](./BodyTemp.mwx)
 * [FatherSon.mtw](./FatherSon.mtw), modern format: [FatherSon.mwx](./FatherSon.mwx)
 * infant.mtw -- outdated, do not use. Download the updated version as `infant.mwx`:
   * [infant.mwx](./infant.mwx)
