@@ -15,4 +15,4 @@
 * Minitab:
   * [Minitab web app](https://app.minitab.com/)
   * Minitab [login instructions](./resources/minitab/index.md). More details in coursepack pages 102-108.
-  * [datasets](./resources/minitab/datasets.md) for Minitab labs and homework.  <span style="color: red; margin-left: 1.5rem"><strong>ADDED on 9/24/2026</strong></span>
+  * [datasets](./resources/minitab/datasets.md) for Minitab labs and homework.  
