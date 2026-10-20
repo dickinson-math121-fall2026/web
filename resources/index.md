@@ -1,5 +1,11 @@
 # Detailed schedule and resources
 
+## Class 15
+
+mid-semester survey form (link provided in class)
+
+main content for today - chapter 7, pages 198-211:
+
 ## Class 14
 
 main content for today - chapter 6, pages 183-197:
@@ -51,7 +57,6 @@ This class is delivered by asynchronous video lecture covering pages 157-170:
 * [Part 4](https://dickinson0-my.sharepoint.com/:v:/g/personal/jmac_dickinson_edu/IQAUdH1OiTvVQKTGtEd8i8YiAdApSy7eoyv9uGMhbY88rLY?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=sMxzsh) (6 minutes)
 * [Part 5](https://dickinson0-my.sharepoint.com/:v:/g/personal/jmac_dickinson_edu/IQA__H7n3r1MQZEmw8VdDD7MAe9uMeg0cjAmxSRAmO4fq94?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=KH7djw) (15 minutes) - The audio says this is the last part, but in fact there is one more after this.
 * [Part 6](https://dickinson0-my.sharepoint.com/:v:/g/personal/jmac_dickinson_edu/IQB-l8i3P96PS68jEobDxWTcAUTkJ0cHaaduEH_-NxURadE?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=atyKlW) (8 minutes)
-
 
 ## Class 11
 
