@@ -2,9 +2,19 @@
 
 ## Class 15
 
-mid-semester survey form (link provided in class)
+[mid-semester survey form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=VbAyYrl2E0ybiLVirn22-2zFL4dI9oNMmoALudp-AK9UOFBMNVA1WVFRWDFMSUVSSTBXWVhHT0JEVy4u)
 
 main content for today - chapter 7, pages 198-211:
+
+* [3:15pm] Parameters versus statistics:pages 198-199: read at home
+* [3:15pm] parameter notation: p200
+* [3:20pm] Sources of bias in statistical inference: pages 201-203 -- read at home
+* [3:20pm] Activity 7.1, page A-33: Discuss in class. Check out an answer given by Gemini later if you are interested: <https://share.gemini.google/MDH7ofPgbeMb>
+* [3:30pm] Measurement bias from questionnaire phrasing: page 204 -- read at home
+* [3:30pm] Simple random sample, random number tables, sampling frame, other methods: pages 205-207
+* [3:40pm] sampling distributions: page 208
+* [3:45pm] in-class practical lab: Simulation of Colors of Reese’s Pieces Candies: pages 209-211
+  * Rossman's Reese's Pieces applet: <https://www.rossmanchance.com/applets/Reeses3/ReesesPieces.html>
 
 ## Class 14
 
