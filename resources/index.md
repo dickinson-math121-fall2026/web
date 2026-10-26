@@ -1,5 +1,20 @@
 # Detailed schedule and resources
 
+## Class 16
+
+[mid-semester feedback results](./class16/math121-midsem-feedback-fa26.pptx)
+
+main content for today - chapter 7, pages 212-223:
+
+* [3:10pm] CLT for sample proportions + Examples 7.1, 7.2, pp212-214
+* [3:25pm] Activity 7.2, page A-33.
+* [3:35pm] Standard error and estimated standard error, p215.
+* [3:40pm] bias and precision, pp215-217 -- mostly read at home, but fill in the dart board example.
+  * Don't worry too much about _bias and precision_.
+* [3:45pm] Confidence intervals for proportions + Example 7.3, pp218-223
+  * Don't worry too much about the _frequentist interpretation_.
+* Activities 7.3 and 7.4 -- probably no time for this -- work on at home -- answers provided next time
+
 ## Class 15
 
 [mid-semester survey form](https://forms.cloud.microsoft/Pages/ResponsePage.aspx?id=VbAyYrl2E0ybiLVirn22-2zFL4dI9oNMmoALudp-AK9UOFBMNVA1WVFRWDFMSUVSSTBXWVhHT0JEVy4u)
