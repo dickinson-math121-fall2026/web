@@ -1,5 +1,11 @@
 # Detailed schedule and resources
 
+## Class 17
+
+Exam review.
+
+Practice problems for exam 2: [practice-qus-exam2.pdf](./class17/practice-qus-exam2.pdf)
+
 ## Class 16
 
 [mid-semester feedback results](./class16/math121-midsem-feedback-fa26.pptx)
