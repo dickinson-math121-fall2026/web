@@ -6,6 +6,8 @@ Exam review.
 
 Practice problems for exam 2: [practice-qus-exam2.pdf](./class17/practice-qus-exam2.pdf)
 
+Normal tables you can take into the exam: [normal-tables.pdf](../exams/normal-tables.pdf)
+
 ## Class 16
 
 [mid-semester feedback results](./class16/math121-midsem-feedback-fa26.pptx)

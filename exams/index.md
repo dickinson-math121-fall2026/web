@@ -10,7 +10,7 @@ As stated on the course syllabus, the midterm and final exams are "closed book w
 * You may not consult any
 printed, written, electronic, or other materials. Exceptions:
   1. you may bring into the exam _one page_ of handwritten notes (one side of US letter sized paper only) for Exams 1, 2, and 3; for the final exam, two sides of handwritten notes are permitted.
-  2. You may also bring and consult the three pages of the MATH121 statistical tables.
+  2. You may also bring and consult the two pages of the MATH121 statistical tables; a copy is available as [normal-tables.pdf](./normal-tables.pdf).
   3. You may use a scientific, non-graphing, non-programmable calculator.
 
 * Technically speaking, any material covered in any lecture, reading, or homework assignment is eligible to appear in the midterm or final exams. In practice, most exam questions will be similar to a homework question, an example done in class, or other assigned practice questions.
@@ -47,3 +47,20 @@ Likely questions and topics include:
 ### Curving
 
 An explanation of the curving for exam one is available on a separate page: [Curving for Exam 1](./curving-exam1.md)
+
+## Exam 2
+
+Exam 2 covers material from Topics 5-7 inclusive.
+
+The duration of the exam is 75 minutes, and there will be questions
+worth a total of approximately 75 points on the exam.
+
+One side of handwritten notes are permitted. No bathroom breaks are permitted.
+
+Likely questions and topics include:
+
+* Probability, including conditional probability and expected value
+* The normal distribution, including finding a probability from a given x-value and computing the corresponding x-value from a given probability.
+* Uniform distribution, including converting probabilities to x-values and vice versa.
+* Applying the central limit theorem to sample proportions.
+* Confidence intervals and sampling distributions for sample proportions
