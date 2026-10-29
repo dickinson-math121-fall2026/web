@@ -2,11 +2,16 @@
 
 ## Class 17
 
-Exam review.
+Main activity today: exam review.
 
-Practice problems for exam 2: [practice-qus-exam2.pdf](./class17/practice-qus-exam2.pdf)
+Announcements:
 
-Normal tables you can take into the exam: [normal-tables.pdf](../exams/normal-tables.pdf)
+* Solutions to skipped examples/activities from class 16 (copy from whiteboard)
+* Practice problems for exam 2: [practice-qus-exam2.pdf](./class17/practice-qus-exam2.pdf)
+* Normal tables you can take into the exam: [normal-tables.pdf](../exams/normal-tables.pdf)
+* For general use (not in exam), ask a search engine or chatbot for values of:
+  * the standard normal cumulative distribution function \\(\\Phi(z)\\) for any \\(z\\) value. For example, you can ask "What is the value of Phi(1.17)?"
+  * the inverse standard normal cumulative distribution function \\(\\Phi^{-1}(p)\\) for any probability \\(p\\). For example, you can ask "What is the value of Phi-inverse(0.95)?"
 
 ## Class 16
 
