@@ -1,5 +1,27 @@
 # Detailed schedule and resources
 
+## Class 19
+
+return exams -- discuss next week -- but solutions are available now
+
+Today's main content: ch8, pp224-235
+
+* review of hypothesis testing, pp224-225 -- read at home
+* [3:10pm] example 8.1, pp227-228 -- in class
+* [3:20pm] activity 8.1, page A-36 -- in class
+* [3:30pm] test statistic, p-value, significance level, pp229-230 -- in class
+* [3:40pm] example 8.2, p231 -- in class
+* example 8.3, p232 -- read at home
+* [3:50pm] activity 8.2, page A-37 -- in class
+* example 8.4 and activity 8.3, page A-38 -- return to these in class if time, otherwise read at home
+* example 8.5, p234 -- read at home
+* [4:05pm] summary of steps, p235 -- focus on step 3 (the only really new thing today)
+
+
+## Class 18
+
+exam 2
+
 ## Class 17
 
 Main activity today: exam review.
