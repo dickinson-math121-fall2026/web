@@ -4,11 +4,20 @@
 
 return exams -- discuss next week -- but solutions are available now on Brightspace. [retake policy](../exams/retakes.md) same as last time (except threshold is 90%) -- 2-week deadline expires 3pm 11/19.
 
+Mnemonics again:
+> **Type I** is when the null is **true**  
+> If the null is **false**, you have **Type II**.
+
+and
+> What does the p-value of a stat mean?  
+> It's the chance of that stat or something more extreme.
+
 Today's main content: ch8, pp224-235
 
 * review of hypothesis testing, pp224-225 -- read at home
 * [3:10pm] example 8.1, pp227-228 -- in class
 * [3:20pm] activity 8.1, page A-36 -- in class
+  * Trick for defining the alternative hypothesis when it's one-sided: Figure out what statement you want **strong evidence** for, then put that statement in the **alternative hypothesis**. 
 * [3:30pm] test statistic, p-value, significance level, pp229-230 -- in class
 * [3:40pm] example 8.2, p231 -- in class
 * example 8.3, p232 -- read at home
