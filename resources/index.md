@@ -17,7 +17,7 @@ Today's main content: ch8, pp224-235
 * review of hypothesis testing, pp224-225 -- read at home
 * [3:10pm] example 8.1, pp227-228 -- in class
 * [3:20pm] activity 8.1, page A-36 -- in class
-  * Trick for defining the alternative hypothesis when it's one-sided: Figure out what statement you want **strong evidence** for, then put that statement in the **alternative hypothesis**. 
+  * Trick for defining the alternative hypothesis when it's one-sided: Figure out what statement you want **strong evidence** for, then put that statement in the **alternative hypothesis**... and the tail goes in the direction of the "arrow" (< or >) in that statement.
 * [3:30pm] test statistic, p-value, significance level, pp229-230 -- in class
 * [3:40pm] example 8.2, p231 -- in class
 * example 8.3, p232 -- read at home
