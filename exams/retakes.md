@@ -1,8 +1,12 @@
 # Midterm exam retakes
 
-## Overview
+## Overview for exam 1
 
 If you got less than 87% on the exam you can retake it. You self-administer the retake at a time and place of your choosing. Then you grade the exam yourself. Repeat multiple times if you want a better result. Then take your graded answers to the instructor during office hours, where you might be quizzed orally. Assuming you score 100% on the retake (and most people do, since you can do it multiple times), your new score will be the average of your original score and 87%. All parts of the process must be completed within 14 days after the exams are first returned to students.
+
+## Overview for exam 2
+
+The retake threshold is 90%. All other arrangements are the same as for exam 1.
 
 ## Retake thresholds
 

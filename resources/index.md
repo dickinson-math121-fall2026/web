@@ -2,7 +2,7 @@
 
 ## Class 19
 
-return exams -- discuss next week -- but solutions are available now
+return exams -- discuss next week -- but solutions are available now on Brightspace. [retake policy](../exams/retakes.md) same as last time (except threshold is 90%) -- 2-week deadline expires 3pm 11/19.
 
 Today's main content: ch8, pp224-235
 
