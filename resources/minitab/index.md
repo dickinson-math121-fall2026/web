@@ -6,7 +6,7 @@ Datasets for the course are available on the separate [datasets page](./datasets
 
 ## Launching the Minitab Web App for the first time
 
-1. In a **Chrome, Safari, or Edge** web browser, navigate to: [https://app.minitab.com/](https://app.minitab.com/)
+1. In a web browser, navigate to: [https://app.minitab.com/](https://app.minitab.com/)
 2. Enter your full Dickinson email address in the Email field and click **"Next"**.
    * **(Note: If Minitab informs you that you do not have access, _DO NOT_ click the "Don't have an account? Sign Up" and _DO NOT_ use the Facebook or Google sign-in options. Instead, request access from the IS Help Desk at `helpdesk@dickinson.edu`.)**
 3. Choose the **"Dickinson College SSO"** option and click **"Next"**.
@@ -14,10 +14,12 @@ Datasets for the course are available on the separate [datasets page](./datasets
 5. You may be taken back to the Minitab login page. If so, re-enter your full Dickinson email address and click **"Next"** (this step occurs only the first time you log into the web app).
 6. Scroll to the bottom of the Subscription Agreement page, check the **"I accept..."** checkbox, and click **"Accept"** (this step occurs only the first time you log into the web app).
 7. Click the **"Open Web App"** link.
+8. Click on "**Analytics** (Minitab Statistical Software)".
 
 ## Launching the Minitab Web App after the first time
 
-Enter your Dickinson email at [https://app.minitab.com/](https://app.minitab.com/).
+1. Enter your Dickinson email at [https://app.minitab.com/](https://app.minitab.com/) if needed.
+2. Click on "**Analytics** (Minitab Statistical Software)".
 
 ## Saving your work
 
