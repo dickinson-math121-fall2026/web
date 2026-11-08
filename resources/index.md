@@ -1,5 +1,18 @@
 # Detailed schedule and resources
 
+## Class 20
+
+Today's main content: ch8, pp236-248
+
+* Copy answers from whiteboard for examples/activities skipped last time:
+  * examples 8.2, 8.4, activity 8.3.
+* Questions from exam 2
+* Don't change hypotheses, don't use "proved", don't use "accept" for the null hypothesis, statistical vs practical significance -- pages 236-239
+  * mostly read at home
+* [3:15pm] Hypothesis tests and confidence intervals, pages 240-243 -- in class
+* [3:30pm] Activity 8.4, page A-39 -- in class
+* [3:45pm] In-class Minitab lab: pages 246-248
+
 ## Class 19
 
 return exams -- discuss next week -- but solutions are available now on Brightspace. [retake policy](../exams/retakes.md) same as last time (except threshold is 90%) -- 2-week deadline expires 3pm 11/19.
