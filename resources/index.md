@@ -1,5 +1,21 @@
 # Detailed schedule and resources
 
+## Class 21
+
+Today's main content: ch9, pp249-263
+
+* CLT for sample means + example 9.1, pp249-252 -- in class
+* example 9.2, p253 -- skip for now, complete at home
+* example 9.3, pp254-255 -- in class
+* Activity 9.1, page A-40 -- skip for now, complete at home
+* [3:35 pm]t-distribution, pp256-257 -- in class
+* confidence interval for population mean, pp258-259 -- in class
+* Frequentist’s Interpretation Revisited, p260 -- read at home
+* example 9.5, p261 -- in class
+* Activity 9.2, page A-41 -- skip for now, complete at home
+* example 9.6, p262 -- in class
+* Typical Misstatements About Confidence Intervals, p263 -- read at home
+
 ## Class 20
 
 Today's main content: ch8, pp236-248
@@ -38,7 +54,6 @@ Today's main content: ch8, pp224-235
 * example 8.4 and activity 8.3, page A-38 -- return to these in class if time, otherwise read at home
 * example 8.5, p234 -- read at home
 * [4:05pm] summary of steps, p235 -- focus on step 3 (the only really new thing today)
-
 
 ## Class 18
 
