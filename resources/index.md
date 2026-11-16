@@ -1,5 +1,24 @@
 # Detailed schedule and resources
 
+## Class 22
+
+Today's main content: ch9, pp264-279
+
+* Hypothesis Test for Population Mean, pp264-266 -- in class
+  * example 9.7, p264 -- in class -- remember the trick for defining the alternative hypothesis when it's one-sided: see class 19 below.
+  * example 9.8, p267 -- part (a) in class, others at home
+  * example 9.9 and 9.10 (pp268-269) -- probably skip
+  * Activity 9.3, page A-42 -- skip for now, complete at home
+  * example 9.11, p270 -- in class
+* summary, p271 -- read at home
+* [3:30pm] statistical vs practical significance, p272
+  * example 9.12, p272 -- in class
+* Relation between hypothesis test and confidence interval, p273 -- read at home
+* [3:45pm] Three Minitab exercises: pages 274-279 -- do in class
+  * Hypothesis Test (with pre-computed summary statistics) pp274-275
+  * Confidence Interval (with pre-computed summary statistics) pp275-276
+  * Confidence Intervals and Hypothesis Tests about a Mean Using Raw Data, pp277-279
+
 ## Class 21
 
 Today's main content: ch9, pp249-263
