@@ -10,7 +10,7 @@ As stated on the course syllabus, the midterm and final exams are "closed book w
 * You may not consult any
 printed, written, electronic, or other materials. Exceptions:
   1. you may bring into the exam _one page_ of handwritten notes (one side of US letter sized paper only) for Exams 1, 2, and 3; for the final exam, two sides of handwritten notes are permitted.
-  2. You may also bring and consult the two pages of the MATH121 statistical tables; a copy is available as [normal-tables.pdf](./normal-tables.pdf).
+  2. You may also bring and consult the three pages of the MATH121 statistical tables; a copy is available as [stat-tables.pdf](./stat-tables.pdf).
   3. You may use a scientific, non-graphing, non-programmable calculator.
 
 * Technically speaking, any material covered in any lecture, reading, or homework assignment is eligible to appear in the midterm or final exams. In practice, most exam questions will be similar to a homework question, an example done in class, or other assigned practice questions.
