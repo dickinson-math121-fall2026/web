@@ -5,6 +5,7 @@
 Announcement:
 
 * The t-statistic page was added to the statistical tables PDF, and the file was renamed. It's now available as [stat-tables.pdf](../exams/stat-tables.pdf) from the [exams page](../exams/index.md).
+* HW8 includes 20 points for attending the Priestley event. If you did not attend but would like to make up these points, please watch the [recording](https://dson.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3c108027-352b-4b37-bcb8-b50000f19abe) then meet me during office hours to discuss the content.
 
 Today's main content: ch9, pp264-279
 
