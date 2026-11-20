@@ -1,5 +1,13 @@
 # Detailed schedule and resources
 
+## Class 24
+
+Practice problems for exam 3 are available: [practice-qus-exam3.pdf](../exams/practice-qus-exam3.pdf)
+
+## Class 23
+
+Today's main content: ch10, pp280-285
+
 ## Class 22
 
 Announcement:
@@ -90,7 +98,7 @@ Main activity today: exam review.
 Announcements:
 
 * Solutions to skipped examples/activities from class 16 (copy from whiteboard)
-* Practice problems for exam 2: [practice-qus-exam2.pdf](./class17/practice-qus-exam2.pdf)
+* Practice problems for exam 2: [practice-qus-exam2.pdf](../exams/practice-qus-exam2.pdf)
 * Statistical tables you can take into the exam: [stat-tables.pdf](../exams/stat-tables.pdf)
 * For general use (not in exam), ask a search engine or chatbot for values of:
   * the standard normal cumulative distribution function \\(\\Phi(z)\\) for any \\(z\\) value. For example, you can ask "What is the value of Phi(1.17)?"

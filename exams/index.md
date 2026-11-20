@@ -64,3 +64,16 @@ Likely questions and topics include:
 * Uniform distribution, including converting probabilities to x-values and vice versa.
 * Applying the central limit theorem to sample proportions.
 * Confidence intervals and sampling distributions for sample proportions
+
+Some practice questions for Exam 2 are available on a separate page: [Practice Questions for Exam 2](./practice-qus-exam2.pdf)
+
+## Exam 3
+
+Exam 3 covers material from Topics 8 and 9.
+
+The duration of the exam is 75 minutes, and there will be questions
+worth a total of approximately 75 points on the exam.
+
+One side of handwritten notes are permitted. No bathroom breaks are permitted.
+  
+Some practice questions for Exam 3 are available on a separate page: [Practice Questions for Exam 3](./practice-qus-exam3.pdf)
