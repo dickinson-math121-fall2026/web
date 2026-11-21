@@ -1,10 +1,21 @@
 # Detailed schedule and resources
 
+
 ## Class 24
 
 Practice problems for exam 3 are available: [practice-qus-exam3.pdf](../exams/practice-qus-exam3.pdf)
 
+Today's main content: ch10, pp286-288
+
+If time remaining:
+1. AI and statistics
+2. Jamovi (free) instead of Minitab
+
 ## Class 23
+
+**Where is Chapter 10?**
+
+* The text book has the heading "Sections 7.5 and 8.4" on page 280. Nevertheless, for our purposes, we will refer to pages 280-288 as "Chapter 10".
 
 Today's main content: ch10, pp280-285
 
